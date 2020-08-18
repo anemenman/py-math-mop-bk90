@@ -23,5 +23,5 @@ while k > 0:
     print('------')
 
 print('Result: ' + str(b))
-print('Count: ' + str(count))
+print('Count: ' + str(count))  # 15!!!
 print('A**k: ' + str(aa ** kk))
