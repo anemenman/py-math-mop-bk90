@@ -19,7 +19,8 @@ def ak():
 while True:
     if done:
         break
-    ak()
+
+    ak()  # There is no do-while cycle in python: do ak(), j=j+1 while i + j < n - 1
     j = j + 1
     while i + j < n - 1:
         ak()
