@@ -17,3 +17,5 @@ for j in range(1, n + 1):
 
 if not is_reduce:
     print("NO RESULTS")
+
+print 10%6
